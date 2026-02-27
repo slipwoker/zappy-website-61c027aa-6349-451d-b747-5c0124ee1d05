@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Step into the culinary world of Vic Vegas, where iconic Vegas flair meets magazine-style food storytelling. Explore recipes, editorial features, and courses.
+
+### About Vic
+https://example.com/about
+Discover the story of Vic Vegas, inspired by the legendary neon cowboy and Real Vegas Magazine. Learn how culinary passion meets editorial excellence.
+
+### Editorial
+https://example.com/editorial
+Dive into expertly crafted culinary editorial content from Vic Vegas. Get inspired by food photography, recipes, and insider Vegas dining perspectives.
+
+### Contact
+https://example.com/contact
+Ready to collaborate or enroll in culinary arts online courses? Reach out to Vic Vegas for partnerships, inquiries, and exclusive culinary opportunities.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
