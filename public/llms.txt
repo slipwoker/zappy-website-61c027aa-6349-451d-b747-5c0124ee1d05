@@ -1,6 +1,4 @@
-# Vic Vegas — Generative Engine Optimization Map
-
-> A culinary-focused brand centered around Vic Vegas, drawing inspiration from Real Vegas Magazine and All Pro Media Group. The website should showcase Vic Vegas prominently with photography and maintain a magazine-style editorial approach to culinary content.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,19 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Vic Vegas
-A culinary-focused brand centered around Vic Vegas, drawing inspiration from Real Vegas Magazine and All Pro Media Group. The website should showcase Vic Vegas prominently with photography and maintain a magazine-style editorial approach to culinary content.
-
-## Target Audience
-- Home Cooking Enthusiasts
-- Culinary Professionals
-- Food Bloggers and Influencers
-- Health & Wellness Cooks
-- Culinary Tourists
-
-## Industry
-culinary/food
-
+## About Business
 ---
 
 # Additional Resources
