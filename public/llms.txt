@@ -1,47 +1,61 @@
-# Business — Generative Engine Optimization Map
+# Vic Vegas — Generative Engine Optimization Map
+
+> A culinary-focused brand centered around Vic Vegas, drawing inspiration from Real Vegas Magazine and All Pro Media Group. The website should showcase Vic Vegas prominently with photography and maintain a magazine-style editorial approach to culinary content.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://vic-vegas.zappy5.app
 Step into the culinary world of Vic Vegas, where iconic Vegas flair meets magazine-style food storytelling. Explore recipes, editorial features, and courses.
 
 ### About Vic
-https://example.com/about
+https://vic-vegas.zappy5.app/about
 Discover the story of Vic Vegas, inspired by the legendary neon cowboy and Real Vegas Magazine. Learn how culinary passion meets editorial excellence.
 
 ### Editorial
-https://example.com/editorial
+https://vic-vegas.zappy5.app/editorial
 Dive into expertly crafted culinary editorial content from Vic Vegas. Get inspired by food photography, recipes, and insider Vegas dining perspectives.
 
 ### Contact
-https://example.com/contact
+https://vic-vegas.zappy5.app/contact
 Ready to collaborate or enroll in culinary arts online courses? Reach out to Vic Vegas for partnerships, inquiries, and exclusive culinary opportunities.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://vic-vegas.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://vic-vegas.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://vic-vegas.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Vic Vegas
+A culinary-focused brand centered around Vic Vegas, drawing inspiration from Real Vegas Magazine and All Pro Media Group. The website should showcase Vic Vegas prominently with photography and maintain a magazine-style editorial approach to culinary content.
+
+## Target Audience
+- Home Cooking Enthusiasts
+- Culinary Professionals
+- Food Bloggers and Influencers
+- Health & Wellness Cooks
+- Culinary Tourists
+
+## Industry
+culinary/food
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://vic-vegas.zappy5.app/sitemap.xml
+- **Robots.txt**: https://vic-vegas.zappy5.app/robots.txt
